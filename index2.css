@@ -1,0 +1,341 @@
+.header{
+    width: 100%;
+    height: 100px;
+    background-color: ;
+}
+body{
+    margin: 0;
+}
+.logo{
+    width: 20%;
+    float: left;
+}
+.logo img{
+    margin-left: 60px;
+}
+.details{
+    width: 80%;
+    background-colo ;
+    float: left;
+    text-align: center;
+}
+.details ul li{
+    display: inline;
+}
+.details ul li a{
+    text-decoration: none;
+    font-size: 16px;
+    line-height: 30px;
+    letter-spacing: 0.08em;
+    padding: 20px;
+    color: rgb(43, 37, 37);
+}
+.fa-search{
+    color: aliceblue;
+}
+.top{
+    margin-left: 30px;
+    padding-top: 50px;
+    width: 100%;
+    height: 50s0px;
+    background: ;
+}
+.top ul li{
+    display: inline;
+}
+.top ul li a{
+    text-decoration: none; 
+    color: black;
+    font-size: 20px;
+}
+.centerall{
+    width: 100%;
+    height: 410px;
+    background: ;
+}
+.centerr{
+    width: 40%;
+    height: 410px;
+    background: #f9db66;
+    float: left;
+    margin-left: 140px;
+
+}
+img{
+    
+}
+.center2{
+    
+    width: 40%;
+    height: 410px;
+    background:#333333;
+    float: left;
+}
+#w{
+    margin-top: 50px;
+    margin-left: 80px;
+    font-size: 33px;
+    color: blue;
+}
+#k{
+    margin-left: 80px ;
+    font-size: 20px;
+    margin-top: 40px;
+    
+    color: rgb(5, 5, 8);
+}
+.ujalaim{
+    margin-top: 50px;
+    width: 100%;
+    height: 280px;
+    background: ;
+    margin: 0 auto;
+}
+.ujalaim ul li{
+    display: inline;
+}
+.ujalaim ul li a{
+    text-decoration: none;
+    font-size: 17px;
+    padding: 94px; 
+    color: #c4afaf;
+}
+.ujalaim ul li a:hover{
+    color: rgb(164, 202, 235);
+}
+.abc{
+    margin-top: 60px;
+    margin-left: 100px;
+}
+
+#u{
+    margin-left: 100px;
+
+}
+.jothilab{
+    margin-top: 50px;
+    width: 100%;
+    height: 460px;
+}
+.jothi1{
+    margin-top: 70px;
+    width: 51%;
+    height: 390px;
+    background: rgb(245, 204, 156);
+    float: left;
+    margin-left: 140px;
+}
+.jothi2{
+    margin-top: 70px;
+    width: 35%;
+    height: 390px;
+    background:#f9db66;
+    float: left;
+}
+#wk{
+    margin-top: 70px;
+    margin-left: 25px;
+    font-size: 25px;
+    color: rgb(17, 17, 22); 
+}
+#wk1{
+    margin-left: 130px;
+}
+#wk2{
+    margin-left: 20px;
+}
+.jothi2 ul li{
+    display: inline;
+}
+.jothi2 ul li a{
+    text-decoration: none; 
+    color: black;
+    font-size: 15px;
+    letter-spacing: 0.0em;
+    padding: 5px;
+}
+.fa{
+    margin-left: 10px;
+    font-size: 30px;
+}
+.homecare{
+    width: 100%;
+    height: 460px;
+    background:;
+}
+.home1{
+    margin-top: 70px;
+    width: 35%;
+    height: 390px;
+    background:#f9db66 ;
+    float: left;
+    margin-left: 140px;  
+}
+.home1 ul li{
+    display: inline;
+}
+.home1 ul li a{
+    text-decoration: none;
+    padding: 5px;
+}
+.home2{
+    margin-top: 70px;
+    width: 51%;
+    height: 390px;
+    background:#ca3535;
+    float: left; 
+}
+#fa{
+    margin-left: 00px;
+}
+.personalcare{
+    width: 100%;
+    height: 460px;
+    backgrou;
+}
+.personal1{
+    margin-top: 70px;
+    width: 51%;
+    height: 390px;
+    background: rgb(245, 204, 156);
+    float: left;
+    margin-left: 140px;
+}
+.personal2{
+    margin-top: 70px;
+    width: 35%;
+    height: 390px;
+    background:#f9db66;
+    float: left;
+}
+.personal2 ul li a{
+    text-decoration: none;
+    padding: 5px;
+}
+.personal2 ul li{
+    display: inline;
+}
+.dishwash{
+    width: 100%;
+    height: 460px;
+    background: ;
+}
+.dish1{
+    margin-top: 70px;
+    width: 35%;
+    height: 390px;
+    background:#f9db66 ;
+    float: left;
+    margin-left: 140px;  
+}
+.dish1 ul li{
+    display: inline;
+}
+.dish1 ul li a{
+    text-decoration: none;
+    padding: 5px;
+}
+.dish2{
+    margin-top: 70px;
+    width: 51%;
+    height: 390px;
+    background:;
+    float: left; 
+}
+
+.foot{
+    margin-top: 30px;
+    width: 100%;
+    height: 200px;
+    background: #3d3d3d; 
+}
+.cl1{
+    margin-left: 220px;
+    width: 19%;
+    height: 200px;
+    float: left;
+    background: #3d3d3d;
+}
+.cl2{
+    width: 14%;
+    height: 200px;
+    float: left;
+    background: #3d3d3d;
+}
+.cl2 ul li a:hover{
+    color: rgb(151, 148, 148);
+}
+.cl3{
+    width: 14%;
+    height: 200px;
+    float: left;
+    background:#3d3d3d
+}
+.foot ul{
+    list-style-type: none;
+
+}
+.cl3 ul li a{
+    text-decoration: none;
+    color: rgb(239, 242, 245);
+}
+.cl3 ul li a:hover{
+    color: rgb(102, 100, 100);
+}
+.cl4{
+    width: 14%;
+    height: 200px;
+    float: left;
+    background: #3d3d3d;
+}
+.cl4 ul li a{
+    text-decoration: none;
+    color: white;
+}
+.cl5{
+    width: 14%;
+    height: 200px;
+    float: left;
+    background: #3d3d3d
+}
+#ak{
+    font-size: 20px;
+    color: white;
+}
+.cl2 ul li a{
+    text-decoration: none;
+    color: aliceblue;
+}
+.cl2 ul li{
+    text-decoration: none;
+    
+}
+#aj{
+    font-size: 12px; 
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.foott{
+    width: 20%;
+    height: 20px;
+    background: #3d3d3d
+}
+.cl6{
+    width: 100%;
+    height: 50px;
+    background: #3d3d3d;
+}
+.footer{
+   margin-left: 380px; 
+    color: rgb(238, 238, 229);
+}
+.footer li{
+    display: inline;
+}
+.footer li a{
+    text-decoration: none; 
+}
+.footer li a:hover{
+ 
+    color: rgb(243, 230, 230);
+}
